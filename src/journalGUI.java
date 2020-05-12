@@ -1,0 +1,7 @@
+public class journalGUI
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Idiot");
+    }
+}
